@@ -14,8 +14,7 @@ const Styles = StyleSheet.create({
         position: 'relative'
     },
     textStyle: {
-        fontSize: 20,
-        color: '#fff'
+        fontSize: 20
     }
 });
 
